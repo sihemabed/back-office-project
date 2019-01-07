@@ -1,0 +1,76 @@
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "name": "Centres pour la Formation et la Qualification dans les Métiers de l’Artisanat",
+            "headline": "Centres pour la Formation et la Qualification dans les Métiers de l’Artisanat",
+            "about": "Centres pour la Formation et la Qualification dans les Métiers de l’Artisanat",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": "http://fm5.elyosdigital.com/sites/default/files/styles/article_home_700x400/public/2018-08/CFMA-min2.jpg?itok=PuyQFoIz",
+                "width": "700",
+                "height": "400"
+            },
+            "datePublished": "2018-06-28",
+            "hasPart": {
+                "@id": "http://fm5.elyosdigital.com/fr",
+                "name": "Centres pour la Formation et la Qualification dans les Métiers de l’Artisanat",
+                "isAccessibleForFree": "True"
+            },
+            "dateModified": "2018-11-13",
+            "isAccessibleForFree": "True",
+            "author": {
+                "@type": "Organization",
+                "@id": "http://fm5.elyosdigital.com/fr/centres-formation-qualification-metiers-artisanat",
+                "name": "Fondation Mohammed V pour la Solidarité",
+                "url": "http://fm5.elyosdigital.com/fr",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "http://fm5.elyosdigital.com/themes/custom/fm5/logo-fr.svg",
+                    "width": "400",
+                    "height": "60"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "http://fm5.elyosdigital.com/fr",
+                "name": "Fondation Mohammed V pour la Solidarité",
+                "url": "http://fm5.elyosdigital.com/fr"
+            },
+            "mainEntityOfPage": "http://fm5.elyosdigital.com/fr/centres-formation-qualification-metiers-artisanat"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "http://fm5.elyosdigital.com/fr",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@id": "http://fm5.elyosdigital.com/fr",
+                            "name": "Accueil",
+                            "url": "http://fm5.elyosdigital.com/fr"
+                        }
+                    }
+                ]
+            },
+            "author": {
+                "@type": "Organization",
+                "@id": "http://fm5.elyosdigital.com/fr/centres-formation-qualification-metiers-artisanat",
+                "name": "Fondation Mohammed V pour la Solidarité",
+                "url": "http://fm5.elyosdigital.com/fr",
+                "logo": {
+                    "@type": "ImageObject",
+                    "representativeOfPage": "True",
+                    "url": "http://fm5.elyosdigital.com/themes/custom/fm5/logo-fr.svg",
+                    "width": "400",
+                    "height": "60"
+                }
+            }
+        }
+    ]
+}</script>
